@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+@end ('script')
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
@@ -21,3 +22,4 @@
     </div>
 </div>
 @endsection
+@section ('secript')
